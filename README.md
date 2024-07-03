@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin: 5px; border-radius: 8px;" />
   </a>  
   <a href="https://leetcode.com/u/Nikhil_10/" target="_blank">
-    <img src="[https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FNikhil_10&logo=leetcode&logoColor=yellow)" alt="linkedin" style="margin: 5px; border-radius: 8px;" />
+    <img src="![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)" alt="linkedin" style="margin: 5px; border-radius: 8px;" />
   </a> 
 </div>  
 
