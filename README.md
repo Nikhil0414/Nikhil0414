@@ -6,7 +6,7 @@
 ### <div align="center">I'm Nikhil!! 😃 </div>  
 ### <div align="center"> Full Stack Python Developer & Data Science Enthusiast🚀</div>  
 
-- 🔭 Know more about me:[My Portfolio](https://github.com/Nikhil0414/BookVerse-The-E-commerce-Bookstore)    
+- 🔭 Know more about me: [My Portfolio](https://github.com/Nikhil0414/BookVerse-The-E-commerce-Bookstore)    
 
 - 🔭 I’m currently working on [BookVerse: The E-commerce Bookstore](https://nikhil0414.github.io/port/)  
   
@@ -59,7 +59,9 @@
 
 
 ## Github Stats  
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil0414&show_icons=true&locale=en&layout=compact" alt="nikhil0414" /></div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil0414&show_icons=true&locale=en&layout=compact" alt="nikhil0414" /></p>
+
+<br/> 
 
 <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil0414&" alt="nikhil0414" /></div>
 
