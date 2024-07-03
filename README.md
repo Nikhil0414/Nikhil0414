@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin: 5px; border-radius: 8px;" />
   </a>  
   <a href="https://leetcode.com/u/Nikhil_10/" target="_blank">
-    <img src="![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)" alt="linkedin" style="margin: 5px; border-radius: 8px;" />
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode" style="margin: 5px; border-radius: 8px;" />
   </a> 
 </div>  
 
