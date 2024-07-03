@@ -6,9 +6,9 @@
 ### <div align="center">I'm Nikhil!! 😃 </div>  
 ### <div align="center"> Full Stack Python Developer & Data Science Enthusiast🚀</div>  
 
-- ⭐️ Know more about me: [My Portfolio](https://github.com/Nikhil0414/BookVerse-The-E-commerce-Bookstore)    
+- ⭐️ Know more about me: [My Portfolio](https://nikhil0414.github.io/port/)    
 
-- 🔭 I’m currently working on [BookVerse: The E-commerce Bookstore](https://nikhil0414.github.io/port/)  
+- 🔭 I’m currently working on [BookVerse: The E-commerce Bookstore](https://github.com/Nikhil0414/BookVerse-The-E-commerce-Bookstore)  
   
 
 - 🌱 I’m currently learning AWS.  
