@@ -3,7 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Nikhil, Full Stack Python Developer & Data Science Enthusiast🚀</div>  
+### <div align="center">I'm Nikhil!! 😃 </div>  
+### <div align="center"> Full Stack Python Developer & Data Science Enthusiast🚀</div>  
+
   
 
 - 🔭 I’m currently working on [My Portfolio](https://nikhil0414.github.io/port/)  
