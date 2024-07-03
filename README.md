@@ -1,19 +1,21 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="center" style="width: 40%" />
+  <img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="center" style="width: 40%; border-radius: 10px;" />
 </div>  
 
-### <div align="center">I'm Nikhil!! 😃 </div>  
-### <div align="center"> Full Stack Python Developer & Data Science Enthusiast🚀</div>  
+<h2 align="center">I'm Nikhil!! 😃</h2>  
+<h3 align="center">Full Stack Python Developer & Data Science Enthusiast 🚀</h3>  
 
-- ⭐️ Know more about me: [My Portfolio](https://nikhil0414.github.io/port/)    
-- 🔭 I’m currently working on [BookVerse: The E-commerce Bookstore](https://github.com/Nikhil0414/BookVerse-The-E-commerce-Bookstore)  
-- 🌱 I’m currently learning AWS.  
-- ❓ Ask me about anything related to Python Development.  
-- ⚡ Fun fact: I use tabs over spaces  
+<p align="center">
+  ⭐️ Know more about me: <a href="https://nikhil0414.github.io/port/" target="_blank">My Portfolio</a> <br/>
+  🔭 I’m currently working on <a href="https://github.com/Nikhil0414/BookVerse-The-E-commerce-Bookstore" target="_blank">BookVerse: The E-commerce Bookstore</a> <br/>
+  🌱 I’m currently learning AWS. <br/>
+  ❓ Ask me about anything related to Python Development. <br/>
+  ⚡ Fun fact: I use tabs over spaces. 
+</p>  
 
 <br/>  
 
-## My Skill Set  
+<h2 align="center">My Skill Set</h2>  
 
 <div align="center">  
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
@@ -53,7 +55,7 @@
 
 <br/>
 
-## Connect with me  
+<h2 align="center">Connect with me</h2>  
 <div align="center">
   <a href="https://github.com/Nikhil0414" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin: 5px; border-radius: 8px;" />
@@ -65,7 +67,7 @@
 
 <br/>
 
-## Github Stats  
+<h2 align="center">Github Stats</h2>  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil0414&show_icons=true&locale=en&layout=compact" alt="nikhil0414" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil0414&" alt="nikhil0414" style="margin: 10px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
